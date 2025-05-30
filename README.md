@@ -33,11 +33,11 @@ A finger-mounted, Raspberry Pi–powered system that turns **any surface** into 
 
 | Phase | Dates | Description |
 |-------|-------|-------------|
-| 🛠️ Setup | Pre-Eid – June 10 | IMU + touch ribbon wiring + driver code |
-| 🧪 Filtering | June 10 – 20 | Sensor fusion, orientation estimation |
-| 📐 Geometry | June 20 – 30 | Calibration, plane math, touch mapping |
-| 👤 UX Layer | July 1 – 12 | UI software, testing, integration |
-| 🚀 Demo | **July 13** | Final presentation and live showcase |
+| Setup | Pre-Eid – June 10 | IMU + touch ribbon wiring + driver code |
+| Filtering | June 10 – 20 | Sensor fusion, orientation estimation |
+| Geometry | June 20 – 30 | Calibration, plane math, touch mapping |
+| UX Layer | July 1 – 12 | UI software, testing, integration |
+| Live Demo | **July 13** | Final presentation and live showcase |
 
 ---
 
